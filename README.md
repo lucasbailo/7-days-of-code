@@ -13,7 +13,7 @@ Another thing that I tried to do was to make my HTML cleaner than the latest pro
 - Flexbox;
 
 
-## Test the project on your device: [Teste the project here!!!]("#")
+## Test the project on your device: [Teste the project here!!!](https://7-days-of-code-lac.vercel.app/)
 
 - Min-width: 1440px
 
