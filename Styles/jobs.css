@@ -1,0 +1,41 @@
+.container__jobs {
+    padding: 0 25rem 5rem 25rem;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 1rem;
+}
+
+.job-area {
+    color: var(--gray-900);
+    font-weight: 500;
+    font-size: 20px;
+    margin: 2rem 0 1rem 0;
+}
+
+.job-title {
+    color: var(--gray-900);
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.job-info {
+    color: var(--gray-500);
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.card-job {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--border-Gray);
+    padding: 2rem;
+    border-radius: 16px;
+    gap: 2rem;
+    width: 100%;
+}
+
+.container__job-info {
+    display: flex;
+    gap: 1.5rem;
+}

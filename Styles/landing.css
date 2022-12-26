@@ -1,0 +1,29 @@
+.container__landing_page {
+    padding: 5rem 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 2rem;
+}
+    
+
+.container__landing_page-about {
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--red-Main);
+
+}
+
+.container__landing_page-title {
+    font-weight: 600;
+    font-size: 48px;
+    color: var(--gray-900);
+}
+
+.container__landing_page-desc {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--gray-500);
+    line-height: 30px;
+}

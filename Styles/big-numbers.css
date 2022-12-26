@@ -1,0 +1,34 @@
+.container__big-numbers {
+    padding: 0 6rem 6rem 6rem;
+    display: flex;
+    gap: 2rem;
+}
+
+.big-numbers__card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 25%;
+
+}
+
+.big-number {
+    color: var(--red-Main);
+    font-size: 60px;
+    font-weight: 600;
+
+}
+
+.big-number__name {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--gray-900);
+
+}
+
+.big-number__desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--gray-500);
+    line-height: 24px;
+}

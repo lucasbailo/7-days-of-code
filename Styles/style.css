@@ -1,0 +1,31 @@
+@import url("./nav.css");
+@import url("./landing.css");
+@import url("./big-numbers.css");
+@import url("./looking-for.css");
+@import url("./jobs.css");
+@import url("./statement.css");
+@import url("./footer.css");
+
+
+:root {
+    --font-Inter: 'Inter', sans-serif;
+    --red-Main: #8E2424;
+    --red-hover: #c24b4b;
+    --white: #FFFFFF;
+    --gray-400:#98A2B3;
+    --gray-500: #667085;
+    --gray-900: #101828;
+    --red-Opacity: rgba(142, 36, 36, 0.05);
+    --red-Opacity2:rgba(196, 25, 25, 0.03);
+    --border-Gray: #EAECF0;
+    --backroung-Footer: #F9FAFB;
+}
+
+body {
+    font-family: var(--font-Inter);
+}
+
+a {
+    text-decoration: none;
+    color: var(--gray-500);
+}
